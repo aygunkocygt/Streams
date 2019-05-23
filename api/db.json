@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Nuri İle Pubg",
+      "description": "1. garanti yayın",
+      "id": 1
+    },
+    {
+      "title": "Alihan ile LoL",
+      "description": "Euw Master Dereceli",
+      "id": 2
+    },
+    {
+      "title": "Cs Go",
+      "description": "Global elite dogru",
+      "userId": "101930772033004761523",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "description": "Test Yayını",
+      "userId": "105657172942977707577",
+      "id": 4
+    },
+    {
+      "title": "Me streaming Component Reuse!",
+      "description": "Watch me refactor some components.",
+      "userId": "105657172942977707577",
+      "id": 5
+    }
+  ]
+}
